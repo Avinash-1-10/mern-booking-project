@@ -14,7 +14,9 @@ Link for API: [API](https://booking-4lm3.onrender.com/api/booking)
 ### Clone the Repository
 
 ## To run Client side
-`cd client`
+```bash
+  cd client
+```
 ### Install Dependencies
 ```bash
   npm install
@@ -26,7 +28,9 @@ Link for API: [API](https://booking-4lm3.onrender.com/api/booking)
 Open your browser and navigate to `http://localhost:3000` to view the app.
 
 ## To run Server 
-`cd server`
+```bash
+  cd server
+```
 ### Install Dependencies
 ```bash
   npm install
