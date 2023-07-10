@@ -2,7 +2,7 @@
 
 ## Deployment Link:
 Link for Client side: [client side](https://book-my-show-beryl-two.vercel.app/) <br>
-Link for API: [GET API](https://booking-4lm3.onrender.com/) 
+Link for API: [GET API](https://booking-4lm3.onrender.com/)  <br>
 Link for GET API: [API](https://booking-4lm3.onrender.com/api/booking) 
 
 
