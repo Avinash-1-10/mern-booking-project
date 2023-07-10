@@ -1,8 +1,8 @@
 # Book My Show Project
 
 ## Deployment Link:
-[client side](https://book-my-show-beryl-two.vercel.app/) 
-[API](https://booking-4lm3.onrender.com/api/booking) 
+Link for Client side: [client side](https://book-my-show-beryl-two.vercel.app/) 
+Link for API: [API](https://booking-4lm3.onrender.com/api/booking) 
 
 
 ## Video Link:
