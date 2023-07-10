@@ -2,11 +2,13 @@
 
 ## Deployment Link:
 Link for Client side: [client side](https://book-my-show-beryl-two.vercel.app/) <br>
-Link for API: [API](https://booking-4lm3.onrender.com/api/booking) 
+Link for API: [GET API](https://booking-4lm3.onrender.com/) 
+Link for GET API: [API](https://booking-4lm3.onrender.com/api/booking) 
+
 
 
 ## Video Link:
-[Project Demo Video](https://youtube.com)
+[Project Demo Video](https://www.youtube.com/watch?v=ca3b5NU8-Vg)
 
 
 ## How to Run the Project Locally:
