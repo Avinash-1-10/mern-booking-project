@@ -15,7 +15,7 @@ const Bookings = () => {
   useEffect(() => {
     const getTickets = async () => {
       try {
-        const response = await axios.get("http://localhost:8080/api/booking");
+        const response = await axios.get("https://booking-4lm3.onrender.com/api/booking");
         setLastTicket(response.data.latestBooking);
         console.log("Data received:", response.data.latestBooking);
       } catch (error) {
@@ -33,7 +33,7 @@ const Bookings = () => {
     console.log("handleSubmit Called");
 
     try {
-      const response = await axios.post("http://localhost:8080/api/booking", {
+      const response = await axios.post("https://booking-4lm3.onrender.com/api/booking", {
         movie: selectedMovie,
         slot: selectedTime,
         seats: seats,
