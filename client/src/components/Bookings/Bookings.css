@@ -1,0 +1,29 @@
+.bookings {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: rgb(243, 243, 243);
+}
+
+.book-title {
+  font-size: 20px;
+  margin: 0 10px 10px 10px;
+  font-weight: bold;
+}
+
+.b-left {
+  flex: 2;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 300px;
+}
+
+
+
+.b-right {
+  flex: 1;
+  background-color: rgb(243, 243, 243);
+}
+

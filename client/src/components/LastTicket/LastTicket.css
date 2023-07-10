@@ -1,0 +1,18 @@
+.ticket {
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
+  .ticket > * {
+    margin: 5px;
+    font-size: 15px;
+  }
+  
+  .ticket > h2 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  

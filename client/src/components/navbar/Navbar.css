@@ -1,0 +1,16 @@
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 7, 82);
+    margin-bottom: 1rem;
+    box-shadow: 0px 0px 8px rgb(185, 183, 183);
+}
+
+.title{
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
