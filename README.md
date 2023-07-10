@@ -11,7 +11,7 @@ Link for API: [API](https://booking-4lm3.onrender.com/api/booking)
 
 ## How to Run the Project Locally:
 
-### Clone the Repository
+## Clone the Repository
 
 ## To run Client side
 ```bash
@@ -40,7 +40,7 @@ Open your browser and navigate to `http://localhost:3000` to view the app.
   npm run dev
 ```
 
-## Run mongoDB server locally or use Atlas
+## Run mongoDB server locally or use Atlas <br> <br>
 
 ## Technologies Used:
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
